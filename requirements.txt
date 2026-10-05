@@ -1,0 +1,6 @@
+matplotlib>=3.5
+
+# 可选：用于第三方交叉验证（python run_experiment.py --cross-check 或 verify.cross_check_mlxtend）
+mlxtend>=0.21
+pandas>=1.3
+
